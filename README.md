@@ -134,6 +134,7 @@ The model shows high precision, recall, and F1-score across all classes with an 
 This report can be used to evaluate the performance of the classification model, understand its strengths and weaknesses, and identify areas for improvement.
 
 ## Demo
+![Demo1](https://github.com/AsrinTopal/Digit-Predictor/assets/42512374/f5c026c7-629a-4f8c-a2f4-120041b4b1f6)
 
 
 ## Badges
